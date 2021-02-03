@@ -1,1 +1,1 @@
-from .fibonnaci import fib
+from .fibonnaci import fib # noqa D104, F401

@@ -1,3 +1,5 @@
+# noqa D100
+
 def fib(n):
     """Return the nth Fibonnaci number."""
     if n == 0:
